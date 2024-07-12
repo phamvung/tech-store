@@ -1,0 +1,918 @@
+[
+  {
+    "id": "1",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_c199044d93d74c93b18b8e46ebab7b0c.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_7f2d3c197417419b9ce797c447487319.jpg"
+    ],
+    "name": "Loa Bluetooth JBL Charge 5",
+    "trade_mark": "JBL",
+    "like": false,
+    "price": 3999000,
+    "price_sale": 1999000,
+    "quantity": 300,
+
+    "sold": 100,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Xanh dương", "style": "#fff" }
+    ],
+    "type": "hot-product"
+  },
+  {
+    "id": "2",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_51a4f34873a04361b82feff499775f2f_1024x1024.jpg"
+    ],
+    "name": "AVA TS-D151",
+    "trade_mark": "AVA",
+    "like": false,
+    "price": 300000,
+    "price_sale": 150000,
+    "quantity": 200,
+    "sold": 90,
+    "colors": [],
+    "type": "hot-product"
+  },
+  {
+    "id": "3",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_283704a8f894454a8f3e6fc1363f379e_1024x1024.jpg"
+    ],
+    "name": "Cáp 3 đầu eValu Spanker",
+    "trade_mark": "Hydrus",
+    "like": false,
+    "price": 220000,
+    "price_sale": 110000,
+    "quantity": 500,
+    "sold": 497,
+    "colors": [],
+    "type": "hot-product"
+  },
+  {
+    "id": "4",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_a885674e5ba8487aae195ca3bdcc2107.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_ebafc5c6e6864f4d949352929f9193f6.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_50ead4049cd84d1489a83c925e0851c7.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_b25d8321428247e7bc5abb3c941c324f.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_893bf0bc47084ac0ab84d01933e4fbaa.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_a885674e5ba8487aae195ca3bdcc2107.jpg"
+    ],
+    "name": "Apple Watch Series 7 Viền nhôm Cellular",
+    "trade_mark": "Apple",
+    "like": false,
+    "price": 20490000,
+    "price_sale": 10245000,
+
+    "quantity": 500,
+    "sold": 99,
+    "colors": [
+      { "value": "Xanh lá", "style": "#008000" },
+      { "value": "Navy", "style": "#000080" },
+      { "value": "Be", "style": "#fffff0" },
+      { "value": "Nâu", "style": "#fffff0" }
+    ],
+    "type": "hot-product"
+  },
+  {
+    "id": "5",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_aa785079267d4f4e98bf6c649c54a767_1024x1024.jpg"
+    ],
+    "name": "Cáp chuyển đổi 2 cổng lightning - 3.5mm Âm Xmobile TS-E123",
+    "trade_mark": "Xmobile",
+    "like": false,
+    "price": 210000,
+    "price_sale": 105000,
+
+    "quantity": 500,
+    "sold": 150,
+    "colors": [],
+    "type": "hot-product"
+  },
+  {
+    "id": "6",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_9d86438018484768875e8ef5fb8bc5a2.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_3d4c09a207224d9f9659dcb4ab97da55.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_77e1819f8e574db7affcd0de1fa0320a.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_7aaa1228e8f34180b35b8fa97d86b24f.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_d57d69431fd64ff1876e2d191296d0aa.jpg"
+    ],
+    "name": "Điện thoại iPhone 13",
+    "trade_mark": "Apple",
+    "like": false,
+    "price": 24490000,
+    "price_sale": 20490000,
+    "quantity": 500,
+    "sold": 200,
+    "colors": [
+      { "value": "Navy", "style": "#000080" },
+      { "value": "Xanh đậm", "style": "#006400" },
+      { "value": "Xanh đậm", "style": "#006400" },
+      { "value": "Xanh đậm", "style": "#006400" },
+      { "value": "Xanh đậm", "style": "#006400" }
+    ],
+    "type": "phone",
+    "specifications": []
+  },
+  {
+    "id": "7",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_8afb95b88b1a4ebca894f2d54ccb398d.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_e118b63c39d0424691312f7367743220.jpg"
+    ],
+    "name": "Điện thoại OPPO A95",
+    "trade_mark": "OPPO",
+    "like": false,
+    "price": 6999000,
+    "price_sale": 3499000,
+    "quantity": 500,
+    "sold": 140,
+    "colors": [
+      { "value": "Navy", "style": "#000080" },
+      { "value": "Xanh đậm", "style": "#006400" }
+    ],
+    "type": "phone",
+    "specifications": []
+  },
+  {
+    "id": "8",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_40690826ff03466b96580c030f945947.jpg"
+    ],
+    "name": "iPhone 13 Pro Max",
+    "trade_mark": "Apple",
+    "like": false,
+    "price": 32499000,
+    "price_sale": 28990000,
+    "quantity": 500,
+    "sold": 100,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Xanh", "style": "#00f" }
+    ],
+    "type": "phone",
+    "specifications": []
+  },
+  {
+    "id": "9",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_0edba52fe4624b00be0f3e7a77f7352f.jpg"
+    ],
+    "name": "iPhone XR",
+    "trade_mark": "Apple",
+    "like": false,
+    "price": 11989000,
+    "price_sale": 10489000,
+    "quantity": 500,
+    "sold": 100,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Đỏ", "style": "#f00" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "phone",
+    "specifications": []
+  },
+  {
+    "id": "10",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_dca03f1dea5c452f8e919284e67b216b.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_8ae1620283964f5881f7191947261e75.jpg"
+    ],
+    "name": "OPPO Find X3 Pro 5G",
+    "trade_mark": "OPPO",
+    "like": false,
+    "price": 23499000,
+    "price_sale": 20499000,
+    "quantity": 500,
+    "sold": 100,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Đỏ", "style": "#f00" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "phone",
+    "specifications": []
+  },
+  {
+    "id": "11",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_6186b029939a4fc8885b67074b8f2782.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_9530d7c98aa049c5986320d90f6f69b6.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_f20410ab4d0c4349aaf90809d4020d4f.jpg"
+    ],
+    "name": "OPPO Reno6 Z 5G",
+    "trade_mark": "OPPO",
+    "like": false,
+    "price": 9490000,
+    "price_sale": 6999000,
+    "quantity": 500,
+    "sold": 112,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "phone",
+    "specifications": []
+  },
+  {
+    "id": "12",
+    "images": [
+      "https://product.hstatic.net/200000696635/product/frame_26_32ecb6655e374ebab50593c4a35b50c0.png",
+      "https://product.hstatic.net/200000696635/product/frame_27_7e21bea20cdd4d148d50f551daddd1e6.png"
+    ],
+    "name": "Realme 8 5G",
+    "trade_mark": "Realme",
+    "like": false,
+    "price": 10789000,
+    "price_sale": 7479000,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "phone",
+    "specifications": []
+  },
+  {
+    "id": "13",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_c2a341a65c624c17928097c5d8a09c0f.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_6a0c9faa9a9d40aca36d0756d556d522.jpg"
+    ],
+    "name": "Samsung Galaxy A32 5G",
+    "trade_mark": "Samsung",
+    "like": false,
+    "price": 6000000,
+    "price_sale": 3000000,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "phone",
+    "specifications": []
+  },
+  {
+    "id": "14",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_cc317578063749a2bb2d8b60cec4d1b3.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_8c7613f6043447568c3ab643ca6118a2.jpg"
+    ],
+    "name": "Apple Watch SE GPS",
+    "trade_mark": "Apple",
+    "like": false,
+    "price": 8990000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "smart-watch",
+    "specifications": {
+      "Màn hình": {
+        "Công nghệ màn hình": "OLED",
+        "Kích thước màn hình": "1.78 inch",
+        "Độ phân giải": "448 x 368 pixels",
+        "Chất liệu mặt": "Ion-X strengthened glass",
+        "Đường kính mặt": "44mm"
+      },
+      "Tiện ích": {
+        "Theo dõi sức khỏe": [
+          "Đo nhịp tim",
+          "Theo dõi giấc ngủ",
+          "Tính lượng calories tiêu thụ",
+          "Đếm số bước chân",
+          "Chế độ luyện tập",
+          "Tính quãng đường chạy"
+        ],
+        "Hiển thị thông báo": [
+          "Cuộc gọi",
+          "Nội dung tin nhắn",
+          "Tin nhắn",
+          "Zalo",
+          "Messenger",
+          "Facebook",
+          "Line",
+          "Viber"
+        ],
+        "Tiện ích khác": [
+          "Điều khiển chụp ảnh",
+          "Nghe gọi trên đồng hồ",
+          "Nghe nhạc với tai nghe Bluetooth",
+          "Màn hình luôn hiển thị",
+          "La bàn",
+          "Đồng hồ bấm giờ",
+          "Điều khiển chơi nhạc",
+          "Rung thông báo",
+          "Thay mặt đồng hồ",
+          "Từ chối cuộc gọi",
+          "Dự báo thời tiết",
+          "Báo thức",
+          "Phát hiện té ngã"
+        ]
+      },
+      "Kết nối": ["Bluetooth v5.0", "Wifi", "GPS"],
+      "Dây đeo": {
+        "Chất liệu dây": "Silicone",
+        "Dây có thể tháo rời": "Có"
+      },
+      "Thông tin khác": {
+        "Ngôn ngữ": ["Tiếng Việt", "Tiếng Anh"],
+        "Kích thước": "44mm x 38 mm x 10.4 mm",
+        "Trọng lượng": "36.5 gram"
+      },
+      "Pin": {
+        "Thời gian sử dụng pin": "Khoảng 1.5 ngày",
+        "Thời gian sạc": "Khoảng 2 giờ"
+      },
+      "Cấu hình": {
+        "CPU": "Apple S6 64 bit",
+        "Bộ nhớ trong": "32GB",
+        "Hệ điều hành": "watchOS 7.0",
+        "Kết nối được với hệ điều hành": "iOS 14 trở lên",
+        "Cổng sạc": "Đế sạc nam châm"
+      }
+    }
+  },
+  {
+    "id": "15",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_52402e312163434f8b19abab9c601a9d.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_b11c9a22fee443f8a572ed08b9c632a1.jpg"
+    ],
+    "name": "Apple Watch Series 6 GPS 44mm",
+    "trade_mark": "Apple",
+    "like": false,
+    "price": 12999000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "smart-watch",
+    "specifications": {
+      "Màn hình": {
+        "Công nghệ màn hình": "OLED",
+        "Kích thước màn hình": "1.78 inch",
+        "Độ phân giải": "448 x 368 pixels",
+        "Chất liệu mặt": "Ion-X strengthened glass",
+        "Đường kính mặt": "44mm"
+      },
+      "Tiện ích": {
+        "Theo dõi sức khỏe": [
+          "Đo nhịp tim",
+          "Theo dõi giấc ngủ",
+          "Tính lượng calories tiêu thụ",
+          "Đếm số bước chân",
+          "Chế độ luyện tập",
+          "Tính quãng đường chạy"
+        ],
+        "Hiển thị thông báo": [
+          "Cuộc gọi",
+          "Nội dung tin nhắn",
+          "Tin nhắn",
+          "Zalo",
+          "Messenger",
+          "Facebook",
+          "Line",
+          "Viber"
+        ],
+        "Tiện ích khác": [
+          "Điều khiển chụp ảnh",
+          "Nghe gọi trên đồng hồ",
+          "Nghe nhạc với tai nghe Bluetooth",
+          "Màn hình luôn hiển thị",
+          "La bàn",
+          "Đồng hồ bấm giờ",
+          "Điều khiển chơi nhạc",
+          "Rung thông báo",
+          "Thay mặt đồng hồ",
+          "Từ chối cuộc gọi",
+          "Dự báo thời tiết",
+          "Báo thức",
+          "Phát hiện té ngã"
+        ]
+      },
+      "Kết nối": ["Bluetooth v5.0", "Wifi", "GPS"],
+      "Dây đeo": {
+        "Chất liệu dây": "Silicone",
+        "Dây có thể tháo rời": "Có"
+      },
+      "Thông tin khác": {
+        "Ngôn ngữ": ["Tiếng Việt", "Tiếng Anh"],
+        "Kích thước": "44mm x 38 mm x 10.4 mm",
+        "Trọng lượng": "36.5 gram"
+      },
+      "Pin": {
+        "Thời gian sử dụng pin": "Khoảng 1.5 ngày",
+        "Thời gian sạc": "Khoảng 2 giờ"
+      },
+      "Cấu hình": {
+        "CPU": "Apple S6 64 bit",
+        "Bộ nhớ trong": "32GB",
+        "Hệ điều hành": "watchOS 7.0",
+        "Kết nối được với hệ điều hành": "iOS 14 trở lên",
+        "Cổng sạc": "Đế sạc nam châm"
+      }
+    }
+  },
+  {
+    "id": "15",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_a885674e5ba8487aae195ca3bdcc2107.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_ebafc5c6e6864f4d949352929f9193f6.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_50ead4049cd84d1489a83c925e0851c7.jpg"
+    ],
+    "name": "Apple Watch Series 7 Viền nhôm Cellular",
+    "trade_mark": "Apple",
+    "like": false,
+    "price": 20490000,
+    "price_sale": 10245000,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "smart-watch",
+    "specifications": {
+      "Màn hình": {
+        "Công nghệ màn hình": "OLED",
+        "Kích thước màn hình": "1.78 inch",
+        "Độ phân giải": "448 x 368 pixels",
+        "Chất liệu mặt": "Ion-X strengthened glass",
+        "Đường kính mặt": "44mm"
+      },
+      "Tiện ích": {
+        "Theo dõi sức khỏe": [
+          "Đo nhịp tim",
+          "Theo dõi giấc ngủ",
+          "Tính lượng calories tiêu thụ",
+          "Đếm số bước chân",
+          "Chế độ luyện tập",
+          "Tính quãng đường chạy"
+        ],
+        "Hiển thị thông báo": [
+          "Cuộc gọi",
+          "Nội dung tin nhắn",
+          "Tin nhắn",
+          "Zalo",
+          "Messenger",
+          "Facebook",
+          "Line",
+          "Viber"
+        ],
+        "Tiện ích khác": [
+          "Điều khiển chụp ảnh",
+          "Nghe gọi trên đồng hồ",
+          "Nghe nhạc với tai nghe Bluetooth",
+          "Màn hình luôn hiển thị",
+          "La bàn",
+          "Đồng hồ bấm giờ",
+          "Điều khiển chơi nhạc",
+          "Rung thông báo",
+          "Thay mặt đồng hồ",
+          "Từ chối cuộc gọi",
+          "Dự báo thời tiết",
+          "Báo thức",
+          "Phát hiện té ngã"
+        ]
+      },
+      "Kết nối": ["Bluetooth v5.0", "Wifi", "GPS"],
+      "Dây đeo": {
+        "Chất liệu dây": "Silicone",
+        "Dây có thể tháo rời": "Có"
+      },
+      "Thông tin khác": {
+        "Ngôn ngữ": ["Tiếng Việt", "Tiếng Anh"],
+        "Kích thước": "44mm x 38 mm x 10.4 mm",
+        "Trọng lượng": "36.5 gram"
+      },
+      "Pin": {
+        "Thời gian sử dụng pin": "Khoảng 1.5 ngày",
+        "Thời gian sạc": "Khoảng 2 giờ"
+      },
+      "Cấu hình": {
+        "CPU": "Apple S6 64 bit",
+        "Bộ nhớ trong": "32GB",
+        "Hệ điều hành": "watchOS 7.0",
+        "Kết nối được với hệ điều hành": "iOS 14 trở lên",
+        "Cổng sạc": "Đế sạc nam châm"
+      }
+    }
+  },
+  {
+    "id": "16",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_a768f7db8fac42f19b5b7f7a1cc98f20.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_711fa10101644b76b1d50741cf19e14c.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_de994943eb6d408287c425c61a9b47d0.jpgg"
+    ],
+    "name": "Garmin Fenix 6-Titanium with Ember Orange Band",
+    "trade_mark": "Garmin",
+    "like": false,
+    "price": 22490000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "smart-watch",
+    "specifications": {
+      "Màn hình": {
+        "Công nghệ màn hình": "OLED",
+        "Kích thước màn hình": "1.78 inch",
+        "Độ phân giải": "448 x 368 pixels",
+        "Chất liệu mặt": "Ion-X strengthened glass",
+        "Đường kính mặt": "44mm"
+      },
+      "Tiện ích": {
+        "Theo dõi sức khỏe": [
+          "Đo nhịp tim",
+          "Theo dõi giấc ngủ",
+          "Tính lượng calories tiêu thụ",
+          "Đếm số bước chân",
+          "Chế độ luyện tập",
+          "Tính quãng đường chạy"
+        ],
+        "Hiển thị thông báo": [
+          "Cuộc gọi",
+          "Nội dung tin nhắn",
+          "Tin nhắn",
+          "Zalo",
+          "Messenger",
+          "Facebook",
+          "Line",
+          "Viber"
+        ],
+        "Tiện ích khác": [
+          "Điều khiển chụp ảnh",
+          "Nghe gọi trên đồng hồ",
+          "Nghe nhạc với tai nghe Bluetooth",
+          "Màn hình luôn hiển thị",
+          "La bàn",
+          "Đồng hồ bấm giờ",
+          "Điều khiển chơi nhạc",
+          "Rung thông báo",
+          "Thay mặt đồng hồ",
+          "Từ chối cuộc gọi",
+          "Dự báo thời tiết",
+          "Báo thức",
+          "Phát hiện té ngã"
+        ]
+      },
+      "Kết nối": ["Bluetooth v5.0", "Wifi", "GPS"],
+      "Dây đeo": {
+        "Chất liệu dây": "Silicone",
+        "Dây có thể tháo rời": "Có"
+      },
+      "Thông tin khác": {
+        "Ngôn ngữ": ["Tiếng Việt", "Tiếng Anh"],
+        "Kích thước": "44mm x 38 mm x 10.4 mm",
+        "Trọng lượng": "36.5 gram"
+      },
+      "Pin": {
+        "Thời gian sử dụng pin": "Khoảng 1.5 ngày",
+        "Thời gian sạc": "Khoảng 2 giờ"
+      },
+      "Cấu hình": {
+        "CPU": "Apple S6 64 bit",
+        "Bộ nhớ trong": "32GB",
+        "Hệ điều hành": "watchOS 7.0",
+        "Kết nối được với hệ điều hành": "iOS 14 trở lên",
+        "Cổng sạc": "Đế sạc nam châm"
+      }
+    }
+  },
+  {
+    "id": "17",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_d57ec65646fb4fddbe61c0e7fe2da062.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_67207f173f484c1db048a7c9f0282aea.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_c27e6c29b76948aa856572c425c82fa9.jpg"
+    ],
+    "name": "Garmin Fenix 6S Pro Solar dây Silicone",
+    "trade_mark": "Garmin",
+    "like": false,
+    "price": 21300000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "smart-watch",
+    "specifications": {
+      "Màn hình": {
+        "Công nghệ màn hình": "OLED",
+        "Kích thước màn hình": "1.78 inch",
+        "Độ phân giải": "448 x 368 pixels",
+        "Chất liệu mặt": "Ion-X strengthened glass",
+        "Đường kính mặt": "44mm"
+      },
+      "Tiện ích": {
+        "Theo dõi sức khỏe": [
+          "Đo nhịp tim",
+          "Theo dõi giấc ngủ",
+          "Tính lượng calories tiêu thụ",
+          "Đếm số bước chân",
+          "Chế độ luyện tập",
+          "Tính quãng đường chạy"
+        ],
+        "Hiển thị thông báo": [
+          "Cuộc gọi",
+          "Nội dung tin nhắn",
+          "Tin nhắn",
+          "Zalo",
+          "Messenger",
+          "Facebook",
+          "Line",
+          "Viber"
+        ],
+        "Tiện ích khác": [
+          "Điều khiển chụp ảnh",
+          "Nghe gọi trên đồng hồ",
+          "Nghe nhạc với tai nghe Bluetooth",
+          "Màn hình luôn hiển thị",
+          "La bàn",
+          "Đồng hồ bấm giờ",
+          "Điều khiển chơi nhạc",
+          "Rung thông báo",
+          "Thay mặt đồng hồ",
+          "Từ chối cuộc gọi",
+          "Dự báo thời tiết",
+          "Báo thức",
+          "Phát hiện té ngã"
+        ]
+      },
+      "Kết nối": ["Bluetooth v5.0", "Wifi", "GPS"],
+      "Dây đeo": {
+        "Chất liệu dây": "Silicone",
+        "Dây có thể tháo rời": "Có"
+      },
+      "Thông tin khác": {
+        "Ngôn ngữ": ["Tiếng Việt", "Tiếng Anh"],
+        "Kích thước": "44mm x 38 mm x 10.4 mm",
+        "Trọng lượng": "36.5 gram"
+      },
+      "Pin": {
+        "Thời gian sử dụng pin": "Khoảng 1.5 ngày",
+        "Thời gian sạc": "Khoảng 2 giờ"
+      },
+      "Cấu hình": {
+        "CPU": "Apple S6 64 bit",
+        "Bộ nhớ trong": "32GB",
+        "Hệ điều hành": "watchOS 7.0",
+        "Kết nối được với hệ điều hành": "iOS 14 trở lên",
+        "Cổng sạc": "Đế sạc nam châm"
+      }
+    }
+  },
+  {
+    "id": "18",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_a4060b21538e4fb4a4f6dc4524dcd33e.jpg"
+    ],
+    "name": "AirPods 3 Apple MME73",
+    "trade_mark": "Apple",
+    "like": false,
+    "price": 4990000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "earphone"
+  },
+  {
+    "id": "19",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_a4060b21538e4fb4a4f6dc4524dcd33e.jpg"
+    ],
+    "name": "AirPods Pro MagSafe Charge Apple MLWK3 Trắng",
+    "trade_mark": "Apple",
+    "like": false,
+    "price": 6990000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "earphone"
+  },
+  {
+    "id": "20",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_a4060b21538e4fb4a4f6dc4524dcd33e.jpg"
+    ],
+    "name": "Tai nghe Bluetooth AirPods 2 Apple MV7N2",
+    "trade_mark": "Apple",
+    "like": false,
+    "price": 5490000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "earphone"
+  },
+  {
+    "id": "21",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_c9c1d409799c4e8ca0456d21eb8a2fdb_1024x1024.jpg"
+    ],
+    "name": "Tai nghe Bluetooth Mozard Flex4",
+    "trade_mark": "Mozard",
+    "like": false,
+    "price": 350000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "earphone"
+  },
+  {
+    "id": "22",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_7acef9da4b774006bf397a6b8c1002f1_1024x1024.jpg"
+    ],
+    "name": "Tai nghe Bluetooth True Wireless LG Tone Free HBS-FN6",
+    "trade_mark": "LG",
+    "like": false,
+    "price": 3490000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "earphone"
+  },
+  {
+    "id": "23",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_bbf414eb75df4768a9c1b145d4731b4a.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_07e4c87b95f946558c0e10e364599cdd.jpg"
+    ],
+    "name": "Loa Bluetooth Harman Kardon Onyx Studio 6",
+    "trade_mark": "Harman",
+    "like": false,
+    "price": 4990000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "loudspeaker"
+  },
+  {
+    "id": "24",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_07e51dcc09f54f819ac4ed995b0e4b98.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_e1790e6c287845de9f68f4a926b78ea6.jpg"
+    ],
+    "name": "Loa Bluetooth Harman Kardon Onyx Studio 7",
+    "trade_mark": "Harman",
+    "like": false,
+    "price": 4990000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "loudspeaker"
+  },
+  {
+    "id": "25",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_883ce4a91a6c4719bc30dd7caf7b4896_1024x1024.jpg"
+    ],
+    "name": "Loa Bluetooth JBL Boombox 2 Đen",
+    "trade_mark": "JBL",
+    "like": false,
+    "price": 9690000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "loudspeaker"
+  },
+  {
+    "id": "26",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_c199044d93d74c93b18b8e46ebab7b0c.jpg",
+      "https://product.hstatic.net/200000458129/product/upload_7f2d3c197417419b9ce797c447487319.jpg"
+    ],
+    "name": "Loa Bluetooth JBL Charge 5",
+    "trade_mark": "JBL",
+    "like": false,
+    "price": 3999000,
+    "price_sale": 1999000,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "loudspeaker"
+  },
+  {
+    "id": "27",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_7f2d3c197417419b9ce797c447487319.jpg"
+    ],
+    "name": "Loa Bluetooth JBL Clip 4",
+    "trade_mark": "JBL",
+    "like": false,
+    "price": 1590000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "loudspeaker"
+  },
+  {
+    "id": "28",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_8a50dd6eab8c410da3186e7eea6b0158_1024x1024.jpg"
+    ],
+    "name": "Cáp Lightning Xmobile LJET-L11 Xám",
+    "trade_mark": "Xmobile",
+    "like": false,
+    "price": 90000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "charging-cable"
+  },
+  {
+    "id": "29",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_7e5f780d56394446b7cf6022e4027f88_grande.jpg"
+    ],
+    "name": "Sạc 2 cổng AVA JC78A",
+    "trade_mark": "AVA",
+    "like": false,
+    "price": 170000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [
+      { "value": "Đen", "style": "#000" },
+      { "value": "Trắng", "style": "#fff" }
+    ],
+    "type": "charger"
+  },
+  {
+    "id": "30",
+    "images": [
+      "https://product.hstatic.net/200000458129/product/upload_9aaa7f878381459a92cde6edd804c849_grande.jpg"
+    ],
+    "name": "Miếng dán kính iPhone 13 Pro Max Belkin",
+    "trade_mark": "Belkin",
+    "like": false,
+    "price": 369000,
+    "price_sale": null,
+    "quantity": 500,
+    "sold": 52,
+    "colors": [],
+    "type": "screen-protector"
+  }
+]

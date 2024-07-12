@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name_customer": "Mạnh Thắng",
+    "avatar_customer": "https://theme.hstatic.net/200000696635/1001199686/14/cus_review_avatar_1_compact.jpg?v=8",
+    "comment": "Sản phẩm chất lượng, chất vải mềm mát mặc vào rất thoải mái và dễ hoạt động, giá cả hợp lý, giao hàng nhanh",
+    "rate": "10",
+    "product": {
+      "id": "1",
+      "name": "Ao thun nam",
+      "image": "https://product.hstatic.net/200000696635/product/frame_15_3db8f1375a3a4340b1ba419dfecd8bef_medium.png"
+    }
+  },
+  {
+    "id": "2",
+    "name_customer": "Quốc Anh",
+    "avatar_customer": "https://theme.hstatic.net/200000696635/1001199686/14/cus_review_avatar_2_compact.jpg?v=8",
+    "comment": "Sản phẩm đẹp, chất liệu tốt, mặc đúng size chuẩn, nhân viên phục vụ rất tận tình và chu đáo. 10 điểm!",
+    "rate": "10",
+    "product": {
+      "id": "1",
+      "name": "Ao thun nam",
+      "image": "https://product.hstatic.net/200000696635/product/frame_24_1146c9740e0a448496a88f6fa0b4cd50_medium.png"
+    }
+  },
+  {
+    "id": "3",
+    "name_customer": "Minh Tuấn",
+    "avatar_customer": "https://theme.hstatic.net/200000696635/1001199686/14/cus_review_avatar_3_compact.jpg?v=8",
+    "comment": "Giao hàng nhanh, anh shipper thân thiện. Sản phẩm đẹp, đã mua nhiều lần và sẽ tiếp tục ủng hộ shop",
+    "rate": "9",
+    "product": {
+      "id": "1",
+      "name": "Ao thun nam",
+      "image": "https://product.hstatic.net/200000696635/product/frame_6_5cf93ff5333349d5acfb933befbdc052_medium.png"
+    }
+  }
+]
